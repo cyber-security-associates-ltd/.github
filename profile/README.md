@@ -7,7 +7,6 @@
   <h3 align="center">Cyber Security Associates Ltd</h3>
 
   <p align="center">
-    <!-- The maker of the open-source Calendly alternative. -->
     <br />
     <a href="https://csa.limited/"><strong>Learn more »</strong></a>
     <br />
@@ -17,6 +16,7 @@
     ·
     <a href="#">Issues</a>
     ·
-    <!-- <a href="https://cal.com/roadmap">Roadmap</a> -->
+    <a href="https://github.com/orgs/cyber-security-associates-ltd/projects">Projects</a>
+    ·
   </p>
 </p>
