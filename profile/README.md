@@ -6,6 +6,8 @@
 
   <h3 align="center">Cyber Security Associates Ltd</h3>
 
+  <p align="center">Cyber Security Associates Limited (CSA) has been providing cyber security solutions designed to keep companies, their people and their infrastructures safe from the cyber threat.</p>
+
   <p align="center">
     <br />
     <a href="https://csa.limited/"><strong>Learn more »</strong></a>
