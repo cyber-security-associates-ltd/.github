@@ -1,7 +1,8 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/calcom/cal.com">
-   <img src="https://headonpr.co.uk/wp-content/uploads/2022/02/CSA-Logo-01.png" alt="Logo">
+  <a href="https://csa.limited">
+<!--    <img src="https://headonpr.co.uk/wp-content/uploads/2022/02/CSA-Logo-01.png" alt="Logo"> -->
+   <img src="https://26027287.fs1.hubspotusercontent-eu1.net/hub/26027287/hubfs/CSA%20Cyber%20Logo%20FNL_Full%20Logo.png?width=3463&height=1248&name=CSA%20Cyber%20Logo%20FNL_Full%20Logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Cyber Security Associates Ltd</h3>
